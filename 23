@@ -1,0 +1,9 @@
+salário = 1200
+c1 = 200
+c2 = 120
+
+calculo1 = ((200/100)*2)+c1
+calculo2 = ((120/100)*2)+c2
+calculo3 = salário - calculo2 - calculo1
+
+print(f"restaram {calculo3} reais do salário do João")
